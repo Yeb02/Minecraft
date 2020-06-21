@@ -6,7 +6,7 @@ Useful for 3D ploting, SLAM illustration, building, or fun.
 
 2- pycraft_001.py and 3d_plot.py are an ongoing attempt at 3D-plotting objects from the quixel-megascan library (unreal engine).
 
-3d display of pointclouds, here using a model from https://drive.google.com/drive/folders/1Ih_Zz9a6UcbUlaA-puEB_is7DYvXrb4w
+3d display of point clouds, here using a model from https://drive.google.com/drive/folders/1Ih_Zz9a6UcbUlaA-puEB_is7DYvXrb4w. Colors can correspond to the point cloud, but it takes longer to display. 
 
 
 ![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/1%206l80I_oAzD-9q4eZLNR51A.png)
