@@ -9,10 +9,10 @@ Useful for 3D ploting, SLAM illustration, building, or fun.
 3d display of point clouds, here using a model from https://drive.google.com/drive/folders/1Ih_Zz9a6UcbUlaA-puEB_is7DYvXrb4w. Colors can correspond to the point cloud, but it takes longer to display. 
 
 
-![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/1%206l80I_oAzD-9q4eZLNR51A.png)
-![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/2020-06-21_13.29.55.png)
+![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/images/1%206l80I_oAzD-9q4eZLNR51A.png)
+![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/images/2020-06-21_13.29.55.png)
 
 2d works best on faces:
 
-![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/MarkZuckerberg.jpg)
-![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/2020-06-21_13.49.23.png)
+![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/images/MarkZuckerberg.jpg)
+![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/images/zuckerbis.png)
