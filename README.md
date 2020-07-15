@@ -2,7 +2,7 @@ Linking minecraft to python with the module from     https://www.instructables.c
 
 Useful for pathfinding, 3D ploting, SLAM illustration, building, or fun.
 
-1- guigue will be a pathfinder implemented in the jars files of minecraft. It is far from done, as I haven't found all the functions I need in the game's source yet. I am as well looking for a way of making in run on the GPU. (using java's openGL from lwjgl)
+1- guigue will be a pathfinder implemented in the jars files of minecraft. It is far from completion, as I haven't found all the functions I need in the game's source yet. I am as well looking for a way of making in run on the GPU. (using java's openGL from lwjgl)
 
 2- capture.py uses the scanner_live src from the 'tools' repo to plot live in Minecraft a phone's camera video feed.
 
@@ -15,7 +15,7 @@ Useful for pathfinding, 3D ploting, SLAM illustration, building, or fun.
 ![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/images/1%206l80I_oAzD-9q4eZLNR51A.png)
 ![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/images/2020-06-21_13.29.55.png)
 
-Chose Zuckerberg because displaying pictures with the 16 colors of wools (without K-means, just least square means) gives bad results on an image with a large palette. Therefore faces yield good renders:
+Chose Zuckerberg because displaying pictures with the 16 colors of minecraft wools (without K-means, just least square means) gives bad results on an image with a large palette. Therefore faces yield good renders:
 
 ![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/images/MarkZuckerberg.jpg)
 ![solarized palette](https://github.com/Yeb02/Minecraft/blob/master/images/zuckerbis.png)
